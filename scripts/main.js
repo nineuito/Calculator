@@ -1,6 +1,7 @@
 function calculate() {
     var num1 = parseFloat(document.getElementById("num1").value);
     var num2 = parseFloat(document.getElementById("num2").value);
+    var operator = document.querySelector('.select').value;
     var result;
 
     switch (operator) {
