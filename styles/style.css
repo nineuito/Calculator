@@ -1,0 +1,39 @@
+body {
+    background-color: #e5e5e5;
+    padding: 44px;
+}
+
+/* Wrapper */
+.wrapper {
+    display: flex;
+    margin: 0 auto;
+    background-color: #ffffff;
+    width: 1200px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* Main */
+.main-content {
+    padding: 60px;
+}
+
+.title-name {
+    color: blue;
+    padding: 0 0 0 370px;
+    font-size: 60px;
+    text-shadow: 2px 0 0;
+}
+
+.descr {
+    margin: 0;
+}
+
+.input-wigth-line {
+    width: 130px;
+    height: 20px;
+}
+
+.select {
+    width: 33px;
+    height: 23px;
+}
